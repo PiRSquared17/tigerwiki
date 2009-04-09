@@ -1,0 +1,5 @@
+<h1>Welcome to Tigerwiki</h1>
+
+<p>Currently Tigerwiki is in a really early stage. I did just very few test son it. So please post any error or bug to the issuetracker</p>
+
+<p><a href="http://code.google.com/p/tigerwiki/">http://code.google.com/p/tigerwiki/</a></p>
