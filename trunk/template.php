@@ -33,9 +33,16 @@ global $subdir, $dirs, $files;
 			    padding: 5px;
 			    margin-right: 5px;
 			}
+			.dirs ul {
+				list-style-image:url(images/folder.gif);
+			}
 			.files {
 			    width: 55%;
 			}
+			.files ul {
+				list-style-image:url(images/file.gif);
+			}
+
 		</style>
 	</head>
 	<body>
